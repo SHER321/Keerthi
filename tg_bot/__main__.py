@@ -18,17 +18,17 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-*Hello* *{}* .. *I'm* *a* *Group* *Managing* *Robot* *Exclusively* *Made* *for* *"* *CINEMAVILLA* *"* *Group..*
+*Hello* *{}* .. *I'm* *a* *Group* *Managing* *Robot* *Exclusively* *Made* *for* *"* *@MOVIERG_NY* *"* *Group..*
 
 *📍* *I* *Won't* *Reply* *to* *Personal* 
 *📌* *You* *can* *contact* *me*
-      *Through* *:* *@Amal_PM*
+      *CREATOR* *:* *@NGYNY*
 
-*@Cenimavilla1999*
+*@ALL_MOVIES_LIABRARY*
 
   *Thank* *You* *🎀*
 
-*Using* *standard* [Marie](http://telegram.dog/BanhammerMarie_bot) *is* *always* *gonna* *be* *easier.*
+*Using* *standard* [KING](http://telegram.dog/KING_NGY_BOT) *is* *always* *gonna* *be* *easier.*
 
 """
 
